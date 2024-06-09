@@ -13,7 +13,7 @@ Digital advertising relies heavily on data-driven decision-making. This study as
 
 ●	Discuss the limitations and potential applications of each method.
 
-## Result and Discussion
+## Results and Discussion
 
 ●	The random forest model performs the best in predicting ad engagement, with an accuracy of 0.96.
 
