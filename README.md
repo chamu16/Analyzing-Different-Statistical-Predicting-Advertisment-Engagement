@@ -1,4 +1,4 @@
-# Analyzing Different Statistical for Predicting Advertisment Engagement
+# Analyzing Different Statistical Techniquesfor Predicting Advertisment Engagement
 
 ## Introduction
 
